@@ -1,4 +1,10 @@
-### Hi there 👋
+# Welcome to my Profile!
+## My name is Henry Barth
+
+### I am a civil engineering student who has discovered programming and has fallen in love with it.
+My goal is to apply computer science to the field of civil engineering in order to solve problems more efficiently and quickly.
+
+I grew up in Salt Lake City, I am the youngest of 4 kids, and my wife and I are expecting a baby boy soon. We couldn't be more excited!
 
 <!--
 **HDavidBarth/HDavidBarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

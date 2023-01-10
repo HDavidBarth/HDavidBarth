@@ -4,7 +4,7 @@
 ### I am a civil engineering student who has discovered programming and has fallen in love with it.
 My goal is to apply computer science to the field of civil engineering in order to solve problems more efficiently and quickly.
 
-I grew up in Salt Lake City, I am the youngest of 4 kids, and my wife and I are expecting a baby boy soon. We couldn't be more excited!
+My wife and I have a beautiful baby boy who is now 5 months old. Time really flies!
 
 <!--
 **HDavidBarth/HDavidBarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

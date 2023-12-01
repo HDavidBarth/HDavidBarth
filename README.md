@@ -1,10 +1,10 @@
 # Welcome to my Profile!
 ## My name is Henry Barth
 
-### I am a civil engineering student who has discovered programming and has fallen in love with it.
-My goal is to apply computer science to the field of civil engineering in order to solve problems more efficiently and quickly.
+### I am a civil engineering student who has a passion for programming.
+The civil engineering and construction industry in general tend to lag behind other industries when it comes to innovation and adoption of new technologies
+I want to change that by using computer science skills to improve the industry and make work more efficient.
 
-My wife and I have a beautiful baby boy who is now 5 months old. Time really flies!
 
 <!--
 **HDavidBarth/HDavidBarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

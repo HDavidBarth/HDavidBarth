@@ -3,7 +3,7 @@
 
 ### I am an aspiring Structural Engineer
 The civil engineering and construction industry in general seem to lag behind other industries when it comes to innovation and adoption of new technologies.
-I want to use computer science and programming skills to build efficient tools that will help me and my collaborators stand apart from the crownd.
+I want to use computer science and programming skills to build efficient tools that will help me and my collaborators stand apart from the crowd.
 
 
 <!--

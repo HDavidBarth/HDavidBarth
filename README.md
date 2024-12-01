@@ -1,9 +1,9 @@
 # Welcome to my Profile!
 ## My name is Henry Barth
 
-### I am a civil engineering student who has a passion for programming.
-The civil engineering and construction industry in general tend to lag behind other industries when it comes to innovation and adoption of new technologies
-I want to change that by using computer science skills to improve the industry and make work more efficient.
+### I am an aspiring Structural Engineer
+The civil engineering and construction industry in general seem to lag behind other industries when it comes to innovation and adoption of new technologies.
+I want to use computer science and programming skills to build efficient tools that will help me and my collaborators stand apart from the crownd.
 
 
 <!--
